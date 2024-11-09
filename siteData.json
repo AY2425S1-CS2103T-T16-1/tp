@@ -45,6 +45,7 @@
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
         "architecture": "Architecture",
+        "authentication-component": "Authentication component",
         "ui-component": "UI component",
         "logic-component": "Logic component",
         "model-component": "Model component",
