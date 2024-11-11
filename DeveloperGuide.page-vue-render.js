@@ -359,6 +359,6 @@ with(this){return _c('h2',{attrs:{"id":"planned-enhancements"}},[_v("Planned enh
 with(this){return _c('ol',[_c('li',[_v("HR staff can change their username and password to keep their account secure.")]),_v(" "),_c('li',[_v("HR staff can track maternity leave of up to 6 months.")]),_v(" "),_c('li',[_v("Allow for the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("count")]),_v(" command to count number of favorited employees.")]),_v(" "),_c('li',[_v("Enhance the GUI to make it more visually appealing.")]),_v(" "),_c('li',[_v("add enhancement here")]),_v(" "),_c('li',[_v("add enhancement here")]),_v(" "),_c('li',[_v("add enhancement here")]),_v(" "),_c('li',[_v("add enhancement here")]),_v(" "),_c('li',[_v("add enhancement here")]),_v(" "),_c('li',[_v("add enhancement here")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Mon, 11 Nov 2024, 13:19:01 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Mon, 11 Nov 2024, 13:40:26 GMT+8]")])])])}
 }];
   
