@@ -26,7 +26,7 @@ with(this){return _c('h2',{attrs:{"id":"2-about"}},[_v("2 About"),_c('a',{static
 with(this){return _c('h2',{attrs:{"id":"3-starting-hr-helper"}},[_v("3 Starting HR Helper"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#3-starting-hr-helper","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("Ensure you have Java "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("17")]),_v(" or above installed in your Computer.")])]),_v(" "),_c('li',[_c('p',[_v("Download the latest "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v(".jar")]),_v(" file from "),_c('a',{attrs:{"href":"https://github.com/AY2425S1-CS2103T-T16-1/tp/releases/tag/v1.5"}},[_v("here")]),_v(".")])]),_v(" "),_c('li',[_c('p',[_v("Copy the file to the folder you want to use as the "),_c('em',[_v("home folder")]),_v(" for your HR Helper.")])]),_v(" "),_c('li',[_c('p',[_v("Open a command terminal, "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("cd")]),_v(" into the folder you put the jar file in, and use the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("java -jar HRHelper.v1.5.jar")]),_v(" command to run the application.")])]),_v(" "),_c('li',[_c('p',[_v("Login to HR Helper."),_c('br'),_v("\nA GUI similar to the below should appear in a few seconds. Note how the app contains some sample data."),_c('br'),_v(" "),_c('a',{attrs:{"href":"/tp/%22images/Ui.png%22","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/%22images/Ui.png%22","alt":"image"}})])])]),_v(" "),_c('li',[_c('p',[_v("Type the command in the command box and press Enter to execute it. e.g. typing "),_c('strong',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("help")])]),_v(" and pressing Enter will open the help window."),_c('br')])]),_v(" "),_c('li',[_c('p',[_v("Some example commands you can try:")]),_v(" "),_c('ul',[_c('li',[_c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list")]),_v(" : Lists all employees.")])]),_v(" "),_c('li',[_c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add n/John Doe p/98765432 e/johnd@example.com a/311, Clementi Ave 2, #02-25 t/friends t/owesMoney f/ d/HR l/12 1")]),_v(" : Adds an employee named "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("John Doe")]),_v(" to the HR Helper list.")])]),_v(" "),_c('li',[_c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("delete 3")]),_v(" : Deletes the 3rd employee shown in the current list.")])]),_v(" "),_c('li',[_c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("clear")]),_v(" : Deletes all employees.")])]),_v(" "),_c('li',[_c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("exit")]),_v(" : Exits the app.")])])])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("Ensure you have Java "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("17")]),_v(" or above installed in your Computer.")])]),_v(" "),_c('li',[_c('p',[_v("Download the latest "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v(".jar")]),_v(" file from "),_c('a',{attrs:{"href":"https://github.com/AY2425S1-CS2103T-T16-1/tp/releases/tag/v1.5"}},[_v("here")]),_v(".")])]),_v(" "),_c('li',[_c('p',[_v("Copy the file to the folder you want to use as the "),_c('em',[_v("home folder")]),_v(" for your HR Helper.")])]),_v(" "),_c('li',[_c('p',[_v("Open a command terminal, "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("cd")]),_v(" into the folder you put the jar file in, and use the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("java -jar HRHelper.v1.5.jar")]),_v(" command to run the application.")])]),_v(" "),_c('li',[_c('p',[_v("Login to HR Helper."),_c('br'),_v("\nA GUI similar to the below should appear in a few seconds. Note how the app contains some sample data."),_c('br'),_v(" "),_c('a',{attrs:{"href":"/tp/images/Ui.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/Ui.png","alt":"image"}})])])]),_v(" "),_c('li',[_c('p',[_v("Type the command in the command box and press Enter to execute it. e.g. typing "),_c('strong',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("help")])]),_v(" and pressing Enter will open the help window."),_c('br')])]),_v(" "),_c('li',[_c('p',[_v("Some example commands you can try:")]),_v(" "),_c('ul',[_c('li',[_c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list")]),_v(" : Lists all employees.")])]),_v(" "),_c('li',[_c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add n/John Doe p/98765432 e/johnd@example.com a/311, Clementi Ave 2, #02-25 t/friends t/owesMoney f/ d/HR l/12 1")]),_v(" : Adds an employee named "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("John Doe")]),_v(" to the HR Helper list.")])]),_v(" "),_c('li',[_c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("delete 3")]),_v(" : Deletes the 3rd employee shown in the current list.")])]),_v(" "),_c('li',[_c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("clear")]),_v(" : Deletes all employees.")])]),_v(" "),_c('li',[_c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("exit")]),_v(" : Exits the app.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('h2',{attrs:{"id":"4-features-of-hr-helper"}},[_v("4 Features of HR Helper"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#4-features-of-hr-helper","onclick":"event.stopPropagation()"}})])}
@@ -35,13 +35,13 @@ with(this){return _c('h2',{attrs:{"id":"4-features-of-hr-helper"}},[_v("4 Featur
 with(this){return _c('h3',{attrs:{"id":"4-1-authentication"}},[_v("4.1 Authentication"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#4-1-authentication","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/%22images/authentication.png%22","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/%22images/authentication.png%22","alt":"image"}})])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/images/authentication.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/authentication.png","alt":"image"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('ul',[_c('li',[_v("For this version, the username is "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("admin")]),_v(" and password is "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("12345678")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/%22images/HRHelperLoginOutput.png%22","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/%22images/HRHelperLoginOutput.png%22","alt":"image"}})])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/images/HRHelperLoginOutput.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/HRHelperLoginOutput.png","alt":"image"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"4-2-viewing-help-help"}},[_v("4.2 Viewing help : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("help")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#4-2-viewing-help-help","onclick":"event.stopPropagation()"}})])}
@@ -50,7 +50,7 @@ with(this){return _c('h3',{attrs:{"id":"4-2-viewing-help-help"}},[_v("4.2 Viewin
 with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("help")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/%22images/helpMessage.png%22","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/%22images/helpMessage.png%22","alt":"image"}})])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/images/helpMessage.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/helpMessage.png","alt":"image"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"4-3-adding-an-employee-add"}},[_v("4.3 Adding an employee : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#4-3-adding-an-employee-add","onclick":"event.stopPropagation()"}})])}
@@ -62,7 +62,7 @@ with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hlj
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add n/John Doe p/98765432 e/johnd@example.com a/John street, block 123, #01-01 f/true d/Operations l/12")])]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add n/Betsy Crowe t/friend e/betsycrowe@example.com a/Newgate Road p/1234567 t/lazy f/true d/Marketing l/10")])])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/%22images/add.png%22","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/%22images/add.png%22","alt":"image"}})])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/images/add.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/add.png","alt":"image"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"4-4-listing-all-employees-list"}},[_v("4.4 Listing all employees : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#4-4-listing-all-employees-list","onclick":"event.stopPropagation()"}})])}
@@ -74,7 +74,7 @@ with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hlj
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list")]),_v(" shows all employees.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/%22images/list.png%22","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/%22images/list.png%22","alt":"image"}})])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/images/list.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/list.png","alt":"image"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"4-5-counting-employees-count"}},[_v("4.5 Counting employees : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("count")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#4-5-counting-employees-count","onclick":"event.stopPropagation()"}})])}
@@ -89,7 +89,7 @@ with(this){return _c('ul',[_c('li',[_v("If counting the entire list, use "),_c('
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("count")])]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("count tag/Communications")])])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/%22images/count.png%22","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/%22images/count.png%22","alt":"image"}})])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/images/count.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/count.png","alt":"image"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"4-6-editing-an-employee-edit"}},[_v("4.6 Editing an employee : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("edit")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#4-6-editing-an-employee-edit","onclick":"event.stopPropagation()"}})])}
@@ -104,7 +104,7 @@ with(this){return _c('ul',[_c('li',[_v("Edits the employee at the specified "),_
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("edit 1 p/91234567 e/johndoe@example.com")]),_v(" Edits the phone number and email address of the 1st employee to be "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("91234567")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("johndoe@example.com")]),_v(" respectively.")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("edit 2 n/Betsy Crower t/")]),_v(" Edits the name of the 2nd employee to be "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Betsy Crower")]),_v(" and clears all existing tags.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/%22images/edit.png%22","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/%22images/edit.png%22","alt":"image"}})])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/images/edit.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/edit.png","alt":"image"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"4-7-locating-employees-by-name-find"}},[_v("4.7 Locating employees by name : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#4-7-locating-employees-by-name-find","onclick":"event.stopPropagation()"}})])}
@@ -119,7 +119,7 @@ with(this){return _c('ul',[_c('li',[_v("The search is case-insensitive. e.g "),_
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find John")]),_v(" returns "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("john")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("John Doe")])]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find alex david")]),_v(" returns "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Alex Yeoh")]),_v(", "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("David Li")]),_c('br')])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/%22images/find.png%22","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/%22images/find.png%22","alt":"image"}})])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/images/find.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/find.png","alt":"image"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"4-8-deleting-an-employee-delete"}},[_v("4.8 Deleting an employee : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("delete")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#4-8-deleting-an-employee-delete","onclick":"event.stopPropagation()"}})])}
@@ -134,7 +134,7 @@ with(this){return _c('ul',[_c('li',[_v("Deletes the employee at the specified ")
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list")]),_v(" followed by "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("delete 2")]),_v(" deletes the 2nd employee in HR Helper.")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find Betsy")]),_v(" followed by "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("delete 1")]),_v(" deletes the 1st employee in the results of the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find")]),_v(" command.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/%22images/delete.png%22","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/%22images/delete.png%22","alt":"image"}})])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/images/delete.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/delete.png","alt":"image"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"4-9-sorting-employees-sort"}},[_v("4.9 Sorting Employees : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("sort")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#4-9-sorting-employees-sort","onclick":"event.stopPropagation()"}})])}
@@ -149,7 +149,7 @@ with(this){return _c('ul',[_c('li',[_v("Sorts the employees according to the spe
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("sort friend")]),_v(" Sorts and displays all employees tagged as friend.")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("sort friend family")]),_v(" Sorts and displays employees tagged as either friend or family.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/%22images/sort.png%22","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/%22images/sort.png%22","alt":"image"}})])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/images/sort.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/sort.png","alt":"image"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"4-10-favoriting-an-employee-favorite"}},[_v("4.10 Favoriting an employee : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("favorite")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#4-10-favoriting-an-employee-favorite","onclick":"event.stopPropagation()"}})])}
@@ -164,7 +164,7 @@ with(this){return _c('ul',[_c('li',[_v("Favorites the employee at the specified 
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list")]),_v(" followed by "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("favorite 2")]),_v(" favorites the 2nd employee in HR Helper.")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find Betsy")]),_v(" followed by "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("favorite 1")]),_v(" favorites the 1st employee in the results of the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find")]),_v(" command.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/%22images/favorite.png%22","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/%22images/favorite.png%22","alt":"image"}})])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/images/favorite.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/favorite.png","alt":"image"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"4-11-clearing-all-entries-clear"}},[_v("4.11 Clearing all entries : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("clear")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#4-11-clearing-all-entries-clear","onclick":"event.stopPropagation()"}})])}
@@ -176,7 +176,7 @@ with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hlj
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("clear")]),_v(" resets the database in HR Helper.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/%22images/clear.png%22","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/%22images/clear.png%22","alt":"image"}})])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/images/clear.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/clear.png","alt":"image"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"4-12-exiting-hr-helper-exit"}},[_v("4.12 Exiting HR Helper : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("exit")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#4-12-exiting-hr-helper-exit","onclick":"event.stopPropagation()"}})])}
@@ -194,7 +194,7 @@ with(this){return _c('p',[_v("The "),_c('strong',[_v("Employee Details Window")]
 with(this){return _c('ul',[_c('li',[_c('strong',[_v("Keyboard Shortcut:")]),_v(" "),_c('ul',[_c('li',[_v("Select a employee from the "),_c('strong',[_v("Employee List")]),_v(".")]),_v(" "),_c('li',[_v("Press the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Enter")]),_v(" key to open the "),_c('strong',[_v("Employee Details Window")]),_v(".")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/%22images/persondetailswindow.png%22","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/%22images/persondetailswindow.png%22","alt":"image"}})])])}
+with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/images/persondetailswindow.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/persondetailswindow.png","alt":"image"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('ul',[_c('li',[_c('strong',[_v("Name:")]),_v(" Editable text field displaying the employee's full name.")]),_v(" "),_c('li',[_c('strong',[_v("Phone:")]),_v(" Editable text field for the employee's contact number.")]),_v(" "),_c('li',[_c('strong',[_v("Email:")]),_v(" Editable text field for the employee's email address.")]),_v(" "),_c('li',[_c('strong',[_v("Address:")]),_v(" Editable text field for the employee's residential or mailing address.")]),_v(" "),_c('li',[_c('strong',[_v("Department:")]),_v(" Editable text field indicating the employee's department within the organization.")]),_v(" "),_c('li',[_c('strong',[_v("Leave:")]),_v(" Editable text field showing the remaining leave days available to the employee.")]),_v(" "),_c('li',[_c('strong',[_v("Favorite:")]),_v(" Checkbox to mark the employee as a favorite for quick access.")])])}
@@ -239,6 +239,6 @@ with(this){return _c('h2',{attrs:{"id":"7-known-issues"}},[_v("7 Known issues"),
 with(this){return _c('ol',[_c('li',[_c('strong',[_v("When using multiple screens")]),_v(", if you move the application to a secondary screen, and later switch to using only the primary screen, the GUI will open off-screen. The remedy is to delete the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("preferences.json")]),_v(" file created by the application before running the application again.")]),_v(" "),_c('li',[_c('strong',[_v("If you minimize the Help Window")]),_v(" and then run the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("help")]),_v(" command (or use the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Help")]),_v(" menu, or the keyboard shortcut "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("F1")]),_v(") again, the original Help Window will remain minimized, and no new Help Window will appear. The remedy is to manually restore the minimized Help Window.")]),_v(" "),_c('li',[_c('strong',[_v("When using "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("count")]),_v(" command")]),_v(", follow the convention of "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("tag/TAG")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("name/NAME")]),_v(", rather than the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("t/TAG")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("n/NAME")]),_v(" used for other commands. Do be careful of this inconsistency.")]),_v(" "),_c('li',[_c('strong',[_v("Does not track maternity leave up to 6 months")]),_v(", which is not part of annual leave.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Mon, 11 Nov 2024, 12:05:02 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Mon, 11 Nov 2024, 12:25:56 GMT+8]")])])])}
 }];
   
